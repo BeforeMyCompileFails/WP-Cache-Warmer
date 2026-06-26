@@ -7,7 +7,7 @@
 ![Dependencies](https://img.shields.io/badge/engine-zero%20deps-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![WP Cache Warmer](docs/WP-Cache-Warmer-screenshot.png)
+![WP Cache Warmer](WP-Cache-Warmer-screenshot.png)
 
 ## Why
 
