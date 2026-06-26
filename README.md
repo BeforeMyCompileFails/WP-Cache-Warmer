@@ -102,4 +102,4 @@ MIT — see [LICENSE](LICENSE).
 
 Made by [**BeforeMyCompileFails**](https://github.com/BeforeMyCompileFails). If it saved you some time, you can buy me a beer:
 
-<a href="https://www.buymeacoffee.com/beforemycompilefails" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&amp;emoji=🍺&amp;slug=beforemycompilefails&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a beer" height="50"></a>
+[![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=%F0%9F%8D%BA&slug=beforemycompilefails&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/beforemycompilefails)
